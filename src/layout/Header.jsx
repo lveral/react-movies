@@ -1,3 +1,4 @@
+import React from 'react';
 function Header() {
     return <nav className="teal darken-3">
         <div className="nav-wrapper">

@@ -6,7 +6,7 @@ const Search = (props) => {
         searchMovies = Function.prototype
     } = props;
 
-    const [search, setSearch] = useState('');
+    const [search, setSearch] = useState('matrix');
     const [type, setType] = useState('all');
 
 
